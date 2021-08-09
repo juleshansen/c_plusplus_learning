@@ -1,0 +1,2 @@
+cout : console out
+endl : inserts a new line character and flushes the stream
